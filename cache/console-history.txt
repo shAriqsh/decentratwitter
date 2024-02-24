@@ -1,0 +1,22 @@
+.exit
+Nam
+const Nam= await Contract.name()
+const nam= await Contract.name()
+const nam= await contract.name()
+Contract
+const Contract= await ethers.getContractAt("Decentratwitter","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const contract= await ethers.getContractAt("Decentratwitter","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const smbol = await contract.symbol();
+symbol
+const symbol = await contract.symbol();
+let symbol= await contract.symbol()
+const Name= await contract.name(0x5FbDB2315678afecb367f032d93F642f641)
+const Name= await contract.name()0x5FbDB2315678afecb367f032d93F642f641
+Name
+const Name= await contract.name()
+const Name=wait contract.name()
+name
+const name=await contract.name()
+const name=await contrat.name()
+contract
+const contract =await ethers.getContractAt("Decentratwitter","0x5FbDB2315678afecb367f032d93F642f641")
